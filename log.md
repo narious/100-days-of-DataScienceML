@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 0: December 03 2020
+
+**Today's Progress**: Setup and data cleaning of movie data in excel
+
+**Thoughts:** trying to get anaconda to work. did some basic cleaning in xcel
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
