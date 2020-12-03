@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of ML/DS - Log
 
-### Day 0: December 03 2020
+### Day 1: December 03 2020
 
 **Today's Progress**: Setup and data cleaning of movie data in excel
 
