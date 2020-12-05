@@ -8,6 +8,14 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+### Day 1: December 03 2020
+
+**Today's Progress**: Installing Anaconda/Jupyter and visualizing data using Matplotlib, Pandas
+
+**Thoughts:** visualizing data and using jupyter for first time
+
+**Link to work:** [Calculator App](http://www.example.com)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
