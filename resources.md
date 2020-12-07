@@ -1,7 +1,8 @@
 # Primary Resources on the #100DaysOfCode
 
 1. [Complete 2020 Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/)
-2. [The #100DaysOfCode Official Site](http://100daysofcode.com/)
+2. [Stanford Machine Learning on Corsera]
+3. [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
 ### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
