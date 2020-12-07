@@ -16,6 +16,15 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+### Day 3: December 05 2020
+
+**Today's Progress**: Learning about the gradient descent method section3 in ML 
+
+**Thoughts:** use of gradient and partial derivatives very cool from multivariable calc class
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
